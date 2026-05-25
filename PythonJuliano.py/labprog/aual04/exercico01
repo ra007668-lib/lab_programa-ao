@@ -1,0 +1,10 @@
+#somar tres numeros
+# entrada de daods
+a = int(input("valor 1: "))
+b = int(input("valor 2: "))
+c = int(input("valor 3: "))
+
+somar = a+b+c
+
+#escreva o total
+print("o valor e :",somar)
